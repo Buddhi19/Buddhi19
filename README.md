@@ -6,8 +6,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/buddhi wijenayake" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="buddhi wijenayake" height="30" width="40" /></a>
-<a href="https://kaggle.com/buddhi wijenayake" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Buddhi Wijenayake" height="30" width="40" /></a>
-<a href="https://fb.com/buddhi wijenayake" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Buddhi Wijenayake" height="30" width="40" /></a>
+<a href="https://kaggle.com/buddhi wijenayake" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="buddhi wijenayake" height="30" width="40" /></a>
+<a href="https://fb.com/buddhi wijenayake" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="buddhi.wijenayake.31" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/buddhi_sk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="buddhi_sk" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/wijenayakebuddhi34802" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="wijenayakebuddhi34802" height="30" width="40" /></a>
 </p>
