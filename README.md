@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Buddhi</h1>
 <h3 align="center">A Passionate Electrical and Electronics Engineering Undergraduate Student</h3>
+<p align="center">
+<img src="https://media.giphy.com/media/KCG5ISvOfp2LVxI7ra/giphy.gif" width="300px"/>
+ </p>
 
  <h3 align="center"> How to reach me  <p><a href="/uri">wijenayakebuddhi34802@gmail.com</a></p> </h3>
 
