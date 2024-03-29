@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Buddhi</h1>
-<h3 align="center">A Passionate Electrical and Electronics Engineering Undergraduate</h3>
+<h3 align="center">A Passionate Electrical and Electronic Engineering Undergraduate</h3>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img alt="GIF" src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+My+GitHub+Profile!...&color=99b3ff&size=23&duration=9000"/></a>
 </p> 
