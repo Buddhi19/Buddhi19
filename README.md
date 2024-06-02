@@ -7,7 +7,7 @@
 <img src="https://media.giphy.com/media/KCG5ISvOfp2LVxI7ra/giphy.gif" width="250px"/>
  </p>
 
- <h3 align="center"> How to reach me  <p><a href="/uri">wijenayakebuddhi34802@gmail.com</a></p> </h3>
+ <h3 align="center"> How to reach me  <p><a href="/uri">wijenayakebuddhi34802[at]gmail[dot]com</a></p> </h3>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
