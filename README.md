@@ -1,13 +1,10 @@
 <h1 align="center">Hi 👋, I'm Buddhi</h1>
-<h3 align="center">A Passionate Electrical and Electronic Engineering Undergraduate</h3>
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img alt="GIF" src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+My+GitHub+Profile!...&color=99b3ff&size=23&duration=9000"/></a>
-</p> 
+</p>  -->
 <p align="center">
 <img src="https://media.giphy.com/media/KCG5ISvOfp2LVxI7ra/giphy.gif" width="250px"/>
  </p>
-
- <h3 align="center"> How to reach me  <p><a href="/uri">wijenayakebuddhi34802[at]gmail[dot]com</a></p> </h3>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
